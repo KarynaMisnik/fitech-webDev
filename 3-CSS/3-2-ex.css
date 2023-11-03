@@ -1,0 +1,27 @@
+/* Red highlight */
+body {
+  color: black;
+}
+
+#highlight {
+  color: red;
+}
+
+/* Red text, black highlight */
+
+body {
+  color: red;
+}
+
+#highlight {
+  color: black;
+}
+
+/* Highlighting multiple elements */
+
+body {
+  color: black;
+}
+.highlight {
+  color: blue;
+}

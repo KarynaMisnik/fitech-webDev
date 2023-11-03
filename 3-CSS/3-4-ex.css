@@ -1,0 +1,22 @@
+/* Choosing a font */
+body {
+  font-family: "Courier";
+}
+
+/* Comic Sans MS */
+body {
+  font-family: Comic Sans MS;
+}
+
+/* Two fonts */
+body {
+  font-family: "Comic Sans MS";
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Times New Roman;
+}

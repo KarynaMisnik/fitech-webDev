@@ -1,0 +1,100 @@
+/* Cat gallery, part 1 */
+h1 {
+  font-family: Helvetica;
+}
+div {
+  font-family: Comic Sans MS;
+}
+
+/* Cat gallery, part 2 */
+h1 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: "Comic Sans MS";
+}
+
+#cats {
+  display: flex;
+}
+
+.cat {
+  margin: 10px;
+}
+
+/* Cat gallery, part 3 */
+h1 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: "Comic Sans MS";
+}
+
+#cats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cat {
+  margin: 10px;
+}
+
+/* Cat gallery, part 4 */
+h1 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: "Comic Sans MS";
+}
+
+#cats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cat {
+  margin: 10px;
+}
+
+img {
+  margin: 10px;
+  border: 5px solid black;
+}
+
+/* Cat gallery, part 5 */
+body {
+  background-color: rgb(138, 186, 211);
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: "Comic Sans MS";
+}
+
+#cats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.cat {
+  margin: 10px;
+  background-color: rgb(237, 194, 216);
+  border-radius: 15px;
+  padding: 5px;
+}
+
+img {
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  margin: 10px;
+}

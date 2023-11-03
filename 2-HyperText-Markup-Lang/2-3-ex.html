@@ -1,0 +1,33 @@
+<!--- ex. Modifying a form -->
+
+<h1>Add a user</h1>
+<form method="POST" action="/users">
+    <label for="name">Name: </label>
+    <input type="text" name="name">
+    <br />
+    <label for="email">Email: </label>
+    <input type="email" name="email">
+    <input type="submit" value="Create user" />
+</form>
+
+<!--- Creating a form -->
+
+<h1>Details</h1>
+<form method="POST" action="/details">
+    <label for="email">Email: </label>
+    <input type="email" name="email">
+    </br>
+    <label for="password">Password: </label>
+    <input type="password" name="password">
+    </br>
+    <label for="nickname">Nickname: </label>
+    <input type="text" name="nickname">
+    </br>
+    <label for="yearOfBirth">Year of Birth: </label>
+    <input type="number" name="yearOfBirth">
+    </br>
+    <label for="color">Color: </label>
+    <input type="color" name="color">
+    </br>
+    <input type="submit" value="Submit details" />
+</form>
